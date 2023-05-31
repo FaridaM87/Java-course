@@ -3,7 +3,7 @@
 import java.util.Random;
 
 
-public class program {
+public class Homework1 {
     public static void main(String[] args) {
         Random random = new Random();
         int i = random.nextInt(2000);

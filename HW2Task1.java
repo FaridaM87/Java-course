@@ -1,6 +1,6 @@
 //HW2 Lesson2
 //Task1
-public class HW2 {
+public class HW2Task1 {
     public static void main(String[] args) throws Exception {
       String [] list = lib.ReadLineFromFile("dataForSelect.txt"); 
       System.out.println(list[0]); 
